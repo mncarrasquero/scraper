@@ -1,5 +1,5 @@
 {
-  "name": "traelo/scraper",
+  "name": "@jonstuebe/scraper",
   "version": "0.1.7",
   "description": "website scraper",
   "main": "lib/index.js",
