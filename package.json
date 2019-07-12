@@ -1,6 +1,6 @@
 {
   "name": "@jonstuebe/scraper",
-  "version": "0.1.8",
+  "version": "0.1.8.1",
   "description": "website scraper",
   "main": "lib/index.js",
   "files": [
