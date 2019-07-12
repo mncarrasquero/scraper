@@ -26,7 +26,6 @@
   "scripts": {
     "build": "babel -d lib/ src/",
     "prepublish": "npm run build",
-    "postinstall":"npm run build",
     "test": "jest"
   },
   "dependencies": {
